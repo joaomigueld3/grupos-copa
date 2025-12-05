@@ -1,0 +1,3 @@
+Pots tem listas de tamanho limitado que devem ser carregadas e descarregadas
+Grupos igualmente
+Sorteador implementa as funções que sorteiam os times, regras de sorteio aqui
